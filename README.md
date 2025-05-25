@@ -16,7 +16,7 @@ HDIMS provides a backend interface to:
 - Python 3
 - Flask
 - SQLite (or any preferred database)
-- HTML/CSS (for frontend templates, if included)
+- HTML/CSS/JS (for frontend templates, if included)
 
 ---
 
