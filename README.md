@@ -33,15 +33,12 @@ After extracting `hdims_backend.zip`, the structure should resemble:
 
 ## ⚙️ How to Run the App Locally
 
-1. **Unzip the folder**
-   unzip hdims_backend.zip
-   cd hdims_backend
-2. pip install -r requirements.txt
-Install dependencies
-3. Run the Flask app
-python app.py
+1. **Unzip the folder** :   unzip hdims_backend.zip
 
-4. Access the app
-    Open your browser and go to:
+2. Install Dependencies:   pip install -r requirements.txt
+
+3. Run the Flask app:   python app.py
+
+4. Access the app, Open your browser and go to:
 
   👉 http://127.0.0.1:5000/signup  
